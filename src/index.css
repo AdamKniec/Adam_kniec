@@ -1,0 +1,7 @@
+.action-panel,
+.list-container,
+.pagination-container,
+.form-container {
+  width: 80%;
+  margin: 0 auto;
+}
